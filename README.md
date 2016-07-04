@@ -78,11 +78,11 @@ ____   ____   ____   ____   ____   ____   ____   ____   ____   ____   ____   ___
                      |___/
 ____   ____   ____   ____   ____   ____   ____   ____   ____   ____   ____   ____
 
+--> Persistance
 --> Taking screenshots after a specific time. Making it keystrokes independent.
 --> Webcam logging
 --> Skype chat history stealer
 --> Steam credential harvestor
---> Persistance
 
 *Made for educational purpose only
 </pre>
