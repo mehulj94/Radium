@@ -83,6 +83,8 @@ ____   ____   ____   ____   ____   ____   ____   ____   ____   ____   ____   ___
 --> Webcam logging
 --> Skype chat history stealer
 --> Steam credential harvestor
-
-*Made for educational purpose only
 </pre>
+# Screenshot
+![Working Key Logger](https://i.imgur.com/1YCNZOp.png)
+
+Made for educational purpose only
