@@ -86,5 +86,8 @@ ____   ____   ____   ____   ____   ____   ____   ____   ____   ____   ____   ___
 </pre>
 # Screenshot
 ![Working Key Logger](https://i.imgur.com/1YCNZOp.png)
-
-Made for educational purpose only
+# Requirements
+* Install [PyHook](https://sourceforge.net/projects/pyhook/)
+* Install [PyWin32](https://sourceforge.net/projects/pywin32/)
+* Install [Microsoft Visual C++ Compiler for Python](https://www.microsoft.com/en-us/download/details.aspx?id=44266)
+* Install [PyInstaller](http://www.pyinstaller.org/)
