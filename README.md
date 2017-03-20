@@ -12,7 +12,7 @@ ____  ____  ____  ____  ____  ____  ____  ____  ____   ____   ____   ____   ____
 
 --> Coded by: Mehul Jain(mehulj94@gmail.com)
 --> Github: https://github.com/mehulj94
---> Twitter: https://twitter.com/wayfarermj
+--> Twitter: https://twitter.com/_b00geyman_
 --> For windows only
 
 ____   ____   ____   ____   ____   ____   ____
