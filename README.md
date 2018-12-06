@@ -90,8 +90,5 @@ ____   ____   ____   ____   ____   ____   ____   ____   ____   ____   ____   ___
 * Install [Microsoft Visual C++ Compiler for Python](https://www.microsoft.com/en-us/download/details.aspx?id=44266)
 * Install [PyInstaller](http://www.pyinstaller.org/)
 
-# Screenshot
-![Working Key Logger](https://i.imgur.com/1YCNZOp.png)
-
 # Tutorial
 [![Tutorial Radium Keylogger](https://i.imgur.com/Y1jE9Km.png)](https://youtu.be/T0h_427L8u4)
