@@ -1,4 +1,4 @@
-<pre>
+```
 ____  ____  ____  ____  ____  ____  ____  ____  ____   ____   ____   ____   ____   ____
   _____           _ _                   _              _
  |  __ \         | (_)                 | |            | |
@@ -10,9 +10,7 @@ ____  ____  ____  ____  ____  ____  ____  ____  ____   ____   ____   ____   ____
                                                  |___/         |___/ |___/
 ____  ____  ____  ____  ____  ____  ____  ____  ____   ____   ____   ____   ____   ____
 
---> Coded by: Mehul Jain(mehulj94@gmail.com)
---> Github: https://github.com/mehulj94
---> Twitter: https://twitter.com/_b00geyman_
+--> Coded by: Mehul Jain
 --> For windows only
 
 ____   ____   ____   ____   ____   ____   ____
@@ -83,7 +81,7 @@ ____   ____   ____   ____   ____   ____   ____   ____   ____   ____   ____   ___
 --> Webcam logging
 --> Skype chat history stealer
 --> Steam credential harvestor
-</pre>
+```
 # Requirements
 * Install [PyHook](https://sourceforge.net/projects/pyhook/)
 * Install [PyWin32](https://sourceforge.net/projects/pywin32/)
