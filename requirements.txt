@@ -1,4 +1,0 @@
-pycrypto==2.6.1
-Pillow==3.4.2
-pyHook==1.5.1
-pyasn1==0.1.9
